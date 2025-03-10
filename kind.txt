@@ -1,3 +1,4 @@
+gh auth login
 cherryniks@CherryNiks:~/nani$ docker version
 Client:
  Version:           24.0.7
